@@ -51,14 +51,6 @@ int main()
         break;
 
     }
-    // if(a[i]>prev)
-    // {
-        
-    //     if(v[(v.size())-1]=='L')
-    //     v.pb('L');
-    //     else if(v[(v.size())-1]=='R')
-    //     v.pb('R');
-    // }
     cout<<v.size()<<endl;
     for(ll i=0;i,i<v.size();i++)
     cout<<v[i];
